@@ -1,0 +1,34 @@
+Welcome to Spice Delight Restaurant!I'm your Virtual Assistant to take Orders.
+
+Hi, I'm John. I'd like two large chicken biryanis, one with extra spices, for delivery to 123 Main Street.
+
+
+Hello John, welcome to Spice Delight Restaurant! We have an ongoing offer where you can get a Gulab Jamun for free with any Biryani order. Also, the Biryani Combo offer is available where you can order Chicken Biryani, Butter Chicken, Gulab Jamun and Coke for $30.00 only. May I know if you would like to add any of these offers to your order?
+
+
+
+Hmm, how about an order of garlic naan, and a mango lassi?
+
+
+
+Great choice, John! Just to confirm, you would like two large chicken biryanis, one with extra spices, an order of garlic naan, and a mango lassi. Would you like to add the Gulab Jamun for free with your Biryani order or go for the Biryani Combo offer?
+
+
+Go with the Biryani Combo offer.
+
+
+Great choice, John! So your order includes Chicken Biryani, Butter Chicken, Gulab Jamun, Coke, an order of Garlic Naan, and a Mango Lassi, right? The total cost of your order is $30.00. May I know your preferred mode of payment, cash or online?
+
+
+
+Cash on Delivery
+
+
+
+Sure, John. Your order includes Chicken Biryani, Butter Chicken, Gulab Jamun, Coke, an order of Garlic Naan, and a Mango Lassi. The total cost of your order is $30.00. Your order will be delivered to 123 Main Street. Your order will be delivered within 30 minutes. Please have the exact cash ready for delivery. Your order ID is #12345. Is there anything else I can assist you with today?
+
+No, Thank you.
+
+
+You're welcome! We have received your order and it will be delivered to you shortly. Thank you for choosing Spice Delight Restaurant.
+

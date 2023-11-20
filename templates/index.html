@@ -1,0 +1,355 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Spice Delight Restaurant</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            background-image: url('/static/spicedelight10.jpg'); /* Replace with the actual path */
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            margin: 0;
+            padding: 0;
+            overflow-x: hidden;
+        }
+
+        /* Chatbot container */
+        .chatbot-container {
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+            width: 550px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            background-color: rgba(255, 255, 255, 0.9); /* Semi-transparent white background */
+        }
+
+        /* Chat header */
+        .chat-header {
+            background-color: #ff9456;
+            color: white;
+            padding: 2px;
+            text-align: center;
+            border-top-left-radius: 10px;
+            border-top-right-radius: 10px;
+        }
+
+        /* Chat content */
+        .chat-content {
+            max-height: 400px;
+            overflow-y: auto;
+            height: 100vh;
+            padding: 10px;
+            margin-bottom: 0px; /* Adjust the margin to maintain spacing while typing */
+            padding-bottom: 0px; /* Add padding at the bottom to keep input visible while typing */
+
+        }
+   
+        /* User bubble */
+        .user-bubble {
+            background-color: #f86917;
+            color: white;
+            padding: 10px;
+            margin: 5px 0;
+            border-radius: 10px;
+            clear: both;
+            float: right;
+            max-width: 70%;
+            position: relative;
+            font-size: 14px;
+        }
+
+        /* Bot bubble */
+        .bot-bubble {
+            background-color: #cec8c8;
+            color: rgb(15, 12, 12);
+            padding: 10px;
+            margin: 5px 0;
+            border-radius: 10px;
+            clear: both;
+            float: left;
+            max-width: 70%;
+            position: relative;
+            font-size: 14px;
+        }
+
+        .user-icon, .bot-icon {
+            width: 30px;
+            height: 30px;
+            border-radius: 50%;
+            display: inline-block;
+            vertical-align: middle;
+            position: absolute;
+        }
+
+        /* User icon */
+        .user-icon {
+            background-image: url('/static/usericon.jpeg'); /* Replace with the actual path */
+            background-size: cover;
+            background-repeat: no-repeat;
+            left: -20px; /* Adjust the position as needed */
+            top: -18px; /* Align to the top corner */
+        }
+
+        /* Bot icon */
+        .bot-icon {
+            background-image: url('/static/boticon.jpeg'); /* Replace with the actual path */
+            background-size: cover;
+            background-repeat: no-repeat;
+            right: -15px; /* Adjust the position as needed */
+            top: -15px; /* Align to the top corner */
+        }
+
+        /* User input */
+        .user-input-container {
+            display: flex;
+            align-items: center;
+            border-top: 1px solid #ccc;
+            border-radius: 0 0 10px 10px;
+            padding: 5px;
+        }
+
+        .user-input {
+            flex-grow: 1;
+            width: 100%;
+            padding: 10px;
+            border: none;
+            outline: none;
+        }
+
+        /* Send button */
+       
+        .send-btn {
+            background-color: #f86917; /* Green color similar to WhatsApp */
+            border: none;
+            cursor: pointer;
+            padding: 10px;
+            border-radius: 50%;
+            color: white;
+            font-size: 20px;
+            margin-left: 5px; /* Add some margin to separate from the user input box */
+            width: 40px; /* Adjust the width as needed */
+            height: 40px; /* Adjust the height as needed */
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            position: relative;
+        }
+        
+        .send-btn:before {
+            content: "";
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%) rotate(45deg);
+            width: 10px;
+            height: 10px;
+            border-top: 2px solid white;
+            border-right: 2px solid white;
+        }
+        
+        /* Send button icon */
+        .send-icon {
+            font-size: 20px;
+            color: #007bff;
+        }
+
+        /* Microphone button styles */
+        .mic-btn {
+            background-color: #97b5d6;
+            color: white;
+            border: none;
+            padding: 10px;
+            border-radius: 10px;
+            cursor: pointer;
+            margin-top: 5px; /* Add some margin to separate from the user input box */
+            display: block; /* Display as a block to position below the send button */
+        }
+        .chat {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            -webkit-transform: translate(-50%, -50%);
+                    transform: translate(-50%, -50%);
+            width: 400px;
+            height: 80vh;
+            max-height: 500px;
+            z-index: 2;
+            overflow: hidden;
+            box-shadow: 0 5px 30px rgba(0, 0, 0, 0.2);
+            background: rgba(0, 0, 0, 0.5);
+            border-radius: 20px;
+            display: -webkit-box;
+            display: -ms-flexbox;
+            display: flex;
+            -webkit-box-pack: justify;
+                -ms-flex-pack: justify;
+                    justify-content: space-between;
+            -webkit-box-orient: vertical;
+            -webkit-box-direction: normal;
+                -ms-flex-direction: column;
+                    flex-direction: column;
+          }
+          
+          /*--------------------
+          Chat Title
+          --------------------*/
+          .chat-title {
+            -webkit-box-flex: 0;
+                -ms-flex: 0 1 45px;
+                    flex: 0 1 45px;
+            position: relative;
+            z-index: 2;
+            background: #f86917;
+            color: #ffffff;
+            text-transform: capitalize;
+            text-align: left;
+            padding: 10px 10px 10px 50px;
+            border-top-left-radius: 10px;
+            border-top-right-radius: 10px;
+          }
+          .chat-title h1, .chat-title h2 {
+            font-family: system-ui;
+            font-size: 20px;
+            margin: 0;
+            padding: 0;
+          }
+          .chat-title h2 {
+            color: #d0d0d0;
+            font-size: 10px;
+            letter-spacing: 1px;
+          }
+          .chat-title .avatar {
+            position: absolute;
+            z-index: 1;
+            top: 8px;
+            left: 9px;
+            border-radius: 30px;
+            width: 30px;
+            height: 30px;
+            overflow: hidden;
+            margin: 0;
+            padding: 0;
+            border: 2px solid rgba(255, 48, 48, 0.24);
+          }
+          .chat-title .avatar img {
+            width: 100%;
+            height: auto;
+          }
+
+    </style>
+</head>
+<body>
+    <div class="chatbot-container">
+        <div class="chat-title">
+            <h1>Spice Delight Restaurant 🌶️ </h1>
+            <h2>VIRTUAL ASSISTANT</h2>
+            <figure class="avatar">
+            <img src="https://www.webex.com/content/dam/wbx/us/images/DG/DG_LP_AI_hero.gif" /></figure>
+        </div>
+        <div class="chat-content" id="chat-box">
+            <!-- Add a welcome message here -->
+            <div class="bot-bubble">
+                <div class="bot-icon"></div>
+                "I'm your Virtual Assistant here to make your order experience as delicious as it gets."
+            </div>
+        </div>
+        <div class="user-input-container">
+            <input type="text" class="user-input" id="user-input" placeholder="Type your message...">
+            <button class="send-btn" id="send-btn"></button>
+            <!-- Send button icon -->
+        </div>
+    </div>        
+
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+       
+        $(document).ready(function () {
+            $('#send-btn').click(function () {
+                sendMessage();
+            });
+
+            $('#user-input').keydown(function (e) {
+                if (e.keyCode === 13) { // Enter key
+                    sendMessage();
+                }
+            });
+
+            function sendMessage() {
+                var user_input = $('#user-input').val();
+                $('#user-input').val('');
+
+                // Add user message bubble to the chat content
+                var userBubble = '<div class="user-bubble">' +
+                    '<div class="user-icon"></div>' +
+                    user_input + '</div>';
+                $('#chat-box').append(userBubble);
+
+                $.ajax({
+                    type: 'POST',
+                    url: '/chat',
+                    data: { 'user_input': user_input },
+                  // Inside the success function after receiving the response from the backend
+                    success: function (response) {
+                        var reply = response.reply;
+
+                        // If the bot says goodbye, hide the input and send button
+                        if (reply.toLowerCase().includes("customer name") &&  reply.toLowerCase().includes("thank you for choosing spice delight restaurant") || 
+                            reply.toLowerCase().includes("goodbye"))
+                            {
+                            // Extract the OrderID from the response
+                            var orderID = response.OrderID;
+
+                            // Add bot message bubble to the chat content
+                            var botBubble = '<div class="bot-bubble">' +
+                                '<div class="bot-icon"></div>' +
+                                reply + '</div>';
+                            $('#chat-box').append(botBubble);
+                            
+                            // Add OrderID after the final order summary
+                            var orderIDMessage = '<div class="bot-bubble">' +
+                                '<div class="bot-icon"></div>' +
+                                'OrderID: ' + orderID + '</div>';
+                            $('#chat-box').append(orderIDMessage);
+
+                            // Add new content to the chat
+
+                            // Scroll to the bottom
+                            var chatBox = $('#chat-box');
+                            chatBox.scrollTop(chatBox.prop("scrollHeight"));
+                            
+
+                            var timeLimit = 10000; // You can adjust the time limit as needed
+
+                            setTimeout(function () {
+                                // Hide the input and send button after the time limit
+                                $('#user-input').hide();
+                                $('#send-btn').hide();
+                            }, timeLimit);
+                        } else {
+                            // Add bot message bubble to the chat content for intermediate responses
+                            var botBubble = '<div class="bot-bubble">' +
+                                '<div class="bot-icon"></div>' +
+                                reply + '</div>';
+                            $('#chat-box').append(botBubble);
+
+                            // Add new content to the chat
+
+                            // Scroll to the bottom
+                            var chatBox = $('#chat-box');
+                            chatBox.scrollTop(chatBox.prop("scrollHeight"));
+                            
+
+                                
+                        }
+                    }
+                });
+            }
+        });
+    </script>
+</body>
+</html>
+
+
+

@@ -1,0 +1,6 @@
+api_type = "azure"
+api_base = "https://foodorder-openai.openai.azure.com/"
+api_version = "2023-07-01-preview"
+api_key = "656597dea2dc49539e3708a870a1edee"
+azure_speech_key="87935718100541c898cc9658575d5683"
+azure_speech_region="westus"

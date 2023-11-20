@@ -1,0 +1,2770 @@
+{
+    "OrderID": 2,
+    "OrderSummary": []
+}
+{
+    "OrderID": 5,
+    "OrderSummary": [
+        "Customer Name: Sujal",
+        "Items with Quantities: 2 Chicken Biryani, 2 Mutton Biryani, and 2 Gulab Jamun for free",
+        "Total Price of the Order: $33.98",
+        "Payment Mode: Cash",
+        "Pickup Location: 123 Main Street, Dallas, USA"
+    ]
+}
+{
+    "OrderID": 15,
+    "OrderSummary": []
+}
+{
+    "OrderID": 19,
+    "OrderSummary": []
+}
+{
+    "OrderID": 23,
+    "OrderSummary": [
+        "Customer Name: Sunny",
+        "Chicken Biryani x 1",
+        "Butter Chicken x 2",
+        "Gulab Jamun x 1",
+        "Coke x 1",
+        "Total Price of the Order: $30.00",
+        "Payment Mode: Cash",
+        "Pickup Location: 123 Main Street, Dallas, USA"
+    ]
+}
+{
+    "OrderID": 36,
+    "OrderSummary": [
+        "Certainly, Tony. Your order will be ready for pickup in 30 minutes. Please make sure to bring cash or arrange for online payment when you arrive. Thank you for choosing Spice Delight Restaurant."
+    ]
+}
+{
+    "OrderID": 42,
+    "OrderSummary": [
+        "You're welcome, Tony. Before we conclude, let me provide you with the Order Summary:",
+        "",
+        "Customer Name: Tony",
+        "Items with Quantities: 1 Butter Chicken, 1 Garlic Naan (eligible for Side Offer)",
+        "Total Price of the Order: $14.95",
+        "Payment Mode: Cash",
+        "Pickup Location: 123 Main Street, Dallas, USA.",
+        "",
+        "Thank you for choosing Spice Delight Restaurant. We hope you enjoy your meal!"
+    ]
+}
+{
+    "OrderID": 56,
+    "OrderSummary": []
+}
+{
+    "OrderID": 60,
+    "OrderSummary": [
+        "Customer Name: Samuel",
+        "Items with Quantities:",
+        "Veg Biryani x 1",
+        "Coke x 1",
+        "Complimentary Gulab Jamun x 1",
+        "Total Price of the Order: $16.49 (including taxes)",
+        "Payment Mode: Cash",
+        "Pickup Location: 123 Main Street, Dallas, USA",
+        "Pickup Time: In 30 minutes"
+    ]
+}
+{
+    "OrderID": 74,
+    "OrderSummary": []
+}
+{
+    "OrderID": 78,
+    "OrderSummary": []
+}
+{
+    "OrderID": 82,
+    "OrderSummary": [
+        "Customer Name: Sunny",
+        "Items Ordered: 1 Chicken Biryani and 1 Gulab Jamun",
+        "Total Price: $15.99",
+        "Payment Mode: Pickup",
+        "Pickup Location: 123 Main Street, Dallas, USA"
+    ]
+}
+{
+    "OrderID": 92,
+    "OrderSummary": []
+}
+{
+    "OrderID": 96,
+    "OrderSummary": []
+}
+{
+    "OrderID": 100,
+    "OrderSummary": []
+}
+{
+    "OrderID": 104,
+    "OrderSummary": []
+}
+{
+    "OrderID": 108,
+    "OrderSummary": [
+        "Customer Name: Suraj",
+        "2 Chicken Biryani",
+        "2 Cokes",
+        "1 Mineral Water Bottle",
+        "Total Price: $39.47",
+        "Payment Mode: Cash",
+        "Pickup Location: Spice Delight Restaurant, 123 Main Street, Dallas, USA"
+    ]
+}
+{
+    "OrderID": 120,
+    "OrderSummary": []
+}
+{
+    "OrderID": 124,
+    "OrderSummary": []
+}
+{
+    "OrderID": 128,
+    "OrderSummary": [
+        "Customer Name: Sudheer",
+        "2 Chicken Biryani ($15.99 each)",
+        "3 Cokes ($2.99 each)",
+        "4 Mineral Water (500ml) ($2.5 each)",
+        "2 Butter Chicken ($13.95 each)",
+        "4 Garlic Naan ($3.0 each)",
+        "Gulab Jamun (Complimentary)",
+        "Total Price: $77.36",
+        "Payment Mode: Cash",
+        "Phone Number: 998099098",
+        "Delivery to: 123 Malakpet Road, Hyderabad"
+    ]
+}
+{
+    "OrderID": 144,
+    "OrderSummary": []
+}
+{
+    "OrderID": 148,
+    "OrderSummary": []
+}
+{
+    "OrderID": 152,
+    "OrderSummary": [
+        "Customer Name: Sunny",
+        "Chicken Biryani x 1",
+        "Rogan Josh x 1",
+        "Total Price: $31.45",
+        "Payment Mode: Cash",
+        "Pickup Location: Spice Delight Restaurant, 123 Main Street, Dallas, USA"
+    ]
+}
+{
+    "OrderID": 163,
+    "OrderSummary": []
+}
+{
+    "OrderID": 167,
+    "OrderSummary": []
+}
+{
+    "OrderID": 171,
+    "OrderSummary": []
+}
+{
+    "OrderID": 175,
+    "OrderSummary": []
+}
+{
+    "OrderID": 179,
+    "OrderSummary": []
+}
+{
+    "OrderID": 183,
+    "OrderSummary": []
+}
+{
+    "OrderID": 187,
+    "OrderSummary": []
+}
+{
+    "OrderID": 191,
+    "OrderSummary": []
+}
+{
+    "OrderID": 195,
+    "OrderSummary": []
+}
+{
+    "OrderID": 199,
+    "OrderSummary": []
+}
+{
+    "OrderID": 203,
+    "OrderSummary": []
+}
+{
+    "OrderID": 207,
+    "OrderSummary": []
+}
+{
+    "OrderID": 211,
+    "OrderSummary": []
+}
+{
+    "OrderID": 215,
+    "OrderSummary": []
+}
+{
+    "OrderID": 219,
+    "OrderSummary": []
+}
+{
+    "OrderID": 223,
+    "OrderSummary": []
+}
+{
+    "OrderID": 227,
+    "OrderSummary": []
+}
+{
+    "OrderID": 231,
+    "OrderSummary": []
+}
+{
+    "OrderID": 235,
+    "OrderSummary": []
+}
+{
+    "OrderID": 239,
+    "OrderSummary": []
+}
+{
+    "OrderID": 243,
+    "OrderSummary": []
+}
+{
+    "OrderID": 247,
+    "OrderSummary": []
+}
+{
+    "OrderID": 251,
+    "OrderSummary": []
+}
+{
+    "OrderID": 255,
+    "OrderSummary": [
+        "1 Biryani Combo",
+        "1 Kulfi",
+        "1 Rasmalai",
+        "Pickup from our location at 123 Main Street, Dallas, USA"
+    ]
+}
+{
+    "OrderID": 264,
+    "OrderSummary": []
+}
+{
+    "OrderID": 268,
+    "OrderSummary": []
+}
+{
+    "OrderID": 272,
+    "OrderSummary": []
+}
+{
+    "OrderID": 276,
+    "OrderSummary": []
+}
+{
+    "OrderID": 280,
+    "OrderSummary": [
+        "Great choice! We have 3 types of biryanis Chicken Biryani, Mutton Biryani, and Veg Biryani. Which one would you like to order?"
+    ]
+}
+{
+    "OrderID": 286,
+    "OrderSummary": []
+}
+{
+    "OrderID": 290,
+    "OrderSummary": []
+}
+{
+    "OrderID": 294,
+    "OrderSummary": [
+        "Alright then. Let me confirm your order 1 Mutton Biryani. Your total comes to $16.99. Would you like to confirm this order?"
+    ]
+}
+{
+    "OrderID": 300,
+    "OrderSummary": []
+}
+{
+    "OrderID": 304,
+    "OrderSummary": [
+        "Great! Your order will be ready for pickup in 30 minutes at our location 123 Main Street, Dallas, USA. Is there anything else I can assist you with today?"
+    ]
+}
+{
+    "OrderID": 310,
+    "OrderSummary": [
+        "Alright then. Thank you for choosing Spice Delight Restaurant. Your order details are as follows",
+        "Item: Mutton Biryani",
+        "Quantity: 1",
+        "Total Price: $16.99",
+        "Please make sure to pick up your order in 30 minutes at our location 123 Main Street, Dallas, USA. We hope you enjoy your meal! Have a great day!"
+    ]
+}
+{
+    "OrderID": 320,
+    "OrderSummary": []
+}
+{
+    "OrderID": 324,
+    "OrderSummary": []
+}
+{
+    "OrderID": 328,
+    "OrderSummary": []
+}
+{
+    "OrderID": 332,
+    "OrderSummary": []
+}
+{
+    "OrderID": 336,
+    "OrderSummary": []
+}
+{
+    "OrderID": 340,
+    "OrderSummary": []
+}
+{
+    "OrderID": 344,
+    "OrderSummary": []
+}
+{
+    "OrderID": 348,
+    "OrderSummary": [
+        "Great! You can pay $31.98 in cash at the pickup location. Please note down your order summary",
+        "Customer Name: Sunny",
+        "Items Ordered:",
+        "2 Chicken Biryani",
+        "Total Price: $31.98",
+        "Payment Mode: Cash",
+        "Pickup Location: 123 Main Street, Dallas, USA"
+    ]
+}
+{
+    "OrderID": 360,
+    "OrderSummary": []
+}
+{
+    "OrderID": 364,
+    "OrderSummary": []
+}
+{
+    "OrderID": 368,
+    "OrderSummary": []
+}
+{
+    "OrderID": 372,
+    "OrderSummary": []
+}
+{
+    "OrderID": 376,
+    "OrderSummary": []
+}
+{
+    "OrderID": 380,
+    "OrderSummary": [
+        "1 Chicken Biryani: $15.99",
+        "1 Coke (can): $2.99"
+    ]
+}
+{
+    "OrderID": 387,
+    "OrderSummary": []
+}
+{
+    "OrderID": 391,
+    "OrderSummary": []
+}
+{
+    "OrderID": 395,
+    "OrderSummary": []
+}
+{
+    "OrderID": 399,
+    "OrderSummary": []
+}
+{
+    "OrderID": 403,
+    "OrderSummary": []
+}
+{
+    "OrderID": 407,
+    "OrderSummary": []
+}
+{
+    "OrderID": 411,
+    "OrderSummary": []
+}
+{
+    "OrderID": 415,
+    "OrderSummary": []
+}
+{
+    "OrderID": 419,
+    "OrderSummary": []
+}
+{
+    "OrderID": 423,
+    "OrderSummary": [
+        "Hello Samhitha, welcome to Spice Delight Restaurant. Before we start with your order, here are the ongoing offers we have"
+    ]
+}
+{
+    "OrderID": 429,
+    "OrderSummary": []
+}
+{
+    "OrderID": 433,
+    "OrderSummary": []
+}
+{
+    "OrderID": 437,
+    "OrderSummary": [
+        "Please provide your preferred payment method cash or online? If you choose online payment, we will send you a payment link to your provided phone number."
+    ]
+}
+{
+    "OrderID": 443,
+    "OrderSummary": []
+}
+{
+    "OrderID": 447,
+    "OrderSummary": []
+}
+{
+    "OrderID": 451,
+    "OrderSummary": []
+}
+{
+    "OrderID": 455,
+    "OrderSummary": []
+}
+{
+    "OrderID": 459,
+    "OrderSummary": []
+}
+{
+    "OrderID": 463,
+    "OrderSummary": [
+        "I apologize if I missed the order summary earlier. Here's the order summary for your order, Samhitha",
+        "Customer Name: Samhitha",
+        "Items with Quantities:",
+        "Total Price of the Order: $15.99",
+        "Payment Mode: Cash",
+        "Order Type: Pickup"
+    ]
+}
+{
+    "OrderID": 474,
+    "OrderSummary": []
+}
+{
+    "OrderID": 478,
+    "OrderSummary": []
+}
+{
+    "OrderID": 482,
+    "OrderSummary": []
+}
+{
+    "OrderID": 486,
+    "OrderSummary": []
+}
+{
+    "OrderID": 490,
+    "OrderSummary": []
+}
+{
+    "OrderID": 494,
+    "OrderSummary": []
+}
+{
+    "OrderID": 498,
+    "OrderSummary": []
+}
+{
+    "OrderID": 502,
+    "OrderSummary": []
+}
+{
+    "OrderID": 506,
+    "OrderSummary": [
+        "Customer Name: Sunny",
+        "Item Ordered:",
+        "1 Chicken Biryani",
+        "1 Coke",
+        "Total Price: $18.98 (including tax)",
+        "Payment Mode: Cash",
+        "Delivery or Pickup: Please let me know whether you would prefer pickup or delivery and provide the relevant details."
+    ]
+}
+{
+    "OrderID": 518,
+    "OrderSummary": []
+}
+{
+    "OrderID": 522,
+    "OrderSummary": []
+}
+{
+    "OrderID": 526,
+    "OrderSummary": []
+}
+{
+    "OrderID": 530,
+    "OrderSummary": []
+}
+{
+    "OrderID": 534,
+    "OrderSummary": []
+}
+{
+    "OrderID": 538,
+    "OrderSummary": [
+        "1. Paneer Tikka $8.95",
+        "2. Samosas $6.50",
+        "3. Vegetable Pakoras $7.25",
+        "4. Chicken Tikka $10.95",
+        "5. Aloo Tikki $5.95",
+        "1. Paneer Butter Masala $12.50",
+        "2. Dal Makhani $10.75",
+        "3. Palak Paneer $11.25",
+        "4. Gobi Masala $9.95",
+        "1. Chicken Curry $14.95",
+        "2. Lamb Rogan Josh $16.50",
+        "3. Fish Tikka Masala $15.75",
+        "4. Butter Chicken $13.95",
+        "5. Shrimp Vindaloo $17.25",
+        "6. Chicken Biryani $15.00",
+        "1. Chicken Biryani $15.99",
+        "2. Mutton Biryani $16.99",
+        "3. Veg Biryani $13.99",
+        "1. Gulab Jamun $5.00",
+        "2. Rice Kheer $6.05",
+        "3. Mango Lassi $4.00"
+    ]
+}
+{
+    "OrderID": 564,
+    "OrderSummary": [
+        "Customer Name: Kalyan",
+        "Chicken Curry",
+        "Lamb Rogan Josh",
+        "Fish Tikka Masala",
+        "Butter Chicken",
+        "Shrimp Vindaloo",
+        "Chicken Biryani",
+        "Garlic Naan (complimentary with Main Course Curry (Non-Veg))",
+        "Gulab Jamun (complimentary with Biryani)",
+        "Coke (part of Biryani Combo)",
+        "Total Price: $88.34",
+        "Payment Mode: Cash or Online",
+        "Delivery or Pickup: Please provide your delivery address"
+    ]
+}
+{
+    "OrderID": 582,
+    "OrderSummary": []
+}
+{
+    "OrderID": 586,
+    "OrderSummary": []
+}
+{
+    "OrderID": 590,
+    "OrderSummary": []
+}
+{
+    "OrderID": 594,
+    "OrderSummary": []
+}
+{
+    "OrderID": 598,
+    "OrderSummary": []
+}
+{
+    "OrderID": 602,
+    "OrderSummary": []
+}
+{
+    "OrderID": 606,
+    "OrderSummary": []
+}
+{
+    "OrderID": 610,
+    "OrderSummary": []
+}
+{
+    "OrderID": 614,
+    "OrderSummary": []
+}
+{
+    "OrderID": 618,
+    "OrderSummary": []
+}
+{
+    "OrderID": 622,
+    "OrderSummary": []
+}
+{
+    "OrderID": 626,
+    "OrderSummary": []
+}
+{
+    "OrderID": 630,
+    "OrderSummary": []
+}
+{
+    "OrderID": 634,
+    "OrderSummary": []
+}
+{
+    "OrderID": 638,
+    "OrderSummary": []
+}
+{
+    "OrderID": 642,
+    "OrderSummary": []
+}
+{
+    "OrderID": 646,
+    "OrderSummary": []
+}
+{
+    "OrderID": 650,
+    "OrderSummary": []
+}
+{
+    "OrderID": 654,
+    "OrderSummary": []
+}
+{
+    "OrderID": 658,
+    "OrderSummary": []
+}
+{
+    "OrderID": 662,
+    "OrderSummary": []
+}
+{
+    "OrderID": 666,
+    "OrderSummary": []
+}
+{
+    "OrderID": 670,
+    "OrderSummary": []
+}
+{
+    "OrderID": 674,
+    "OrderSummary": []
+}
+{
+    "OrderID": 678,
+    "OrderSummary": []
+}
+{
+    "OrderID": 682,
+    "OrderSummary": [
+        "One Mutton Biryani",
+        "One Mineral Water (500ml)"
+    ]
+}
+{
+    "OrderID": 689,
+    "OrderSummary": []
+}
+{
+    "OrderID": 693,
+    "OrderSummary": []
+}
+{
+    "OrderID": 697,
+    "OrderSummary": []
+}
+{
+    "OrderID": 701,
+    "OrderSummary": []
+}
+{
+    "OrderID": 705,
+    "OrderSummary": []
+}
+{
+    "OrderID": 709,
+    "OrderSummary": []
+}
+{
+    "OrderID": 713,
+    "OrderSummary": []
+}
+{
+    "OrderID": 717,
+    "OrderSummary": []
+}
+{
+    "OrderID": 721,
+    "OrderSummary": []
+}
+{
+    "OrderID": 725,
+    "OrderSummary": []
+}
+{
+    "OrderID": 729,
+    "OrderSummary": []
+}
+{
+    "OrderID": 733,
+    "OrderSummary": []
+}
+{
+    "OrderID": 737,
+    "OrderSummary": []
+}
+{
+    "OrderID": 741,
+    "OrderSummary": []
+}
+{
+    "OrderID": 745,
+    "OrderSummary": []
+}
+{
+    "OrderID": 749,
+    "OrderSummary": []
+}
+{
+    "OrderID": 753,
+    "OrderSummary": []
+}
+{
+    "OrderID": 757,
+    "OrderSummary": []
+}
+{
+    "OrderID": 761,
+    "OrderSummary": [
+        "Customer Name: Sunny",
+        "Items with quantities:",
+        "Chicken Biryani x 2",
+        "Coke x 2",
+        "Gulab Jamun x 1",
+        "Total Price: $33.98",
+        "Payment Option: Cash",
+        "Pickup Location: 123 Main Street, Dallas, USA",
+        "Estimated Pickup Time: 30 Minutes"
+    ]
+}
+{
+    "OrderID": 775,
+    "OrderSummary": []
+}
+{
+    "OrderID": 779,
+    "OrderSummary": []
+}
+{
+    "OrderID": 783,
+    "OrderSummary": []
+}
+{
+    "OrderID": 787,
+    "OrderSummary": []
+}
+{
+    "OrderID": 791,
+    "OrderSummary": []
+}
+{
+    "OrderID": 795,
+    "OrderSummary": []
+}
+{
+    "OrderID": 799,
+    "OrderSummary": []
+}
+{
+    "OrderID": 803,
+    "OrderSummary": []
+}
+{
+    "OrderID": 807,
+    "OrderSummary": [
+        "Thank you for providing your phone number, Prme. You will receive a confirmation message on your phone number shortly. The total cost of your order is $30.00. How would you like to make the payment cash or online?"
+    ]
+}
+{
+    "OrderID": 813,
+    "OrderSummary": []
+}
+{
+    "OrderID": 817,
+    "OrderSummary": []
+}
+{
+    "OrderID": 821,
+    "OrderSummary": []
+}
+{
+    "OrderID": 825,
+    "OrderSummary": []
+}
+{
+    "OrderID": 829,
+    "OrderSummary": []
+}
+{
+    "OrderID": 833,
+    "OrderSummary": []
+}
+{
+    "OrderID": 837,
+    "OrderSummary": []
+}
+{
+    "OrderID": 841,
+    "OrderSummary": [
+        "1. Paneer Tikka $8.95",
+        "2. Samosas $6.50",
+        "3. Vegetable Pakoras $7.25",
+        "4. Chicken Tikka $10.95",
+        "5. Aloo Tikki $5.95",
+        "1. Paneer Butter Masala $12.50",
+        "2. Dal Makhani $10.75",
+        "3. Palak Paneer $11.25",
+        "4. Gobi Masala $9.95",
+        "1. Chicken Curry $14.95",
+        "2. Lamb Rogan Josh $16.50",
+        "3. Fish Tikka Masala $15.75",
+        "4. Butter Chicken $13.95",
+        "5. Shrimp Vindaloo $17.25",
+        "6. Chicken Biryani $15.00",
+        "1. Chicken Biryani $15.99",
+        "2. Mutton Biryani $16.99",
+        "3. Veg Biryani $13.99",
+        "1. Gulab Jamun $5.00"
+    ]
+}
+{
+    "OrderID": 865,
+    "OrderSummary": []
+}
+{
+    "OrderID": 869,
+    "OrderSummary": []
+}
+{
+    "OrderID": 873,
+    "OrderSummary": []
+}
+{
+    "OrderID": 877,
+    "OrderSummary": []
+}
+{
+    "OrderID": 881,
+    "OrderSummary": []
+}
+{
+    "OrderID": 885,
+    "OrderSummary": [
+        "Customer Name: Sunny",
+        "Order: Chicken Biryani 1 quantity",
+        "Total Price: $15.99",
+        "Payment Mode: -"
+    ]
+}
+{
+    "OrderID": 894,
+    "OrderSummary": []
+}
+{
+    "OrderID": 898,
+    "OrderSummary": []
+}
+{
+    "OrderID": 902,
+    "OrderSummary": []
+}
+{
+    "OrderID": 906,
+    "OrderSummary": []
+}
+{
+    "OrderID": 910,
+    "OrderSummary": []
+}
+{
+    "OrderID": 914,
+    "OrderSummary": []
+}
+{
+    "OrderID": 918,
+    "OrderSummary": []
+}
+{
+    "OrderID": 922,
+    "OrderSummary": []
+}
+{
+    "OrderID": 926,
+    "OrderSummary": []
+}
+{
+    "OrderID": 930,
+    "OrderSummary": []
+}
+{
+    "OrderID": 934,
+    "OrderSummary": []
+}
+{
+    "OrderID": 938,
+    "OrderSummary": [
+        "Customer Name: Sunny",
+        "Biryani Combo: 1",
+        "Total Price: $30.00",
+        "Payment Mode: Pickup"
+    ]
+}
+{
+    "OrderID": 947,
+    "OrderSummary": []
+}
+{
+    "OrderID": 951,
+    "OrderSummary": []
+}
+{
+    "OrderID": 955,
+    "OrderSummary": []
+}
+{
+    "OrderID": 959,
+    "OrderSummary": []
+}
+{
+    "OrderID": 963,
+    "OrderSummary": []
+}
+{
+    "OrderID": 967,
+    "OrderSummary": []
+}
+{
+    "OrderID": 971,
+    "OrderSummary": []
+}
+{
+    "OrderID": 975,
+    "OrderSummary": []
+}
+{
+    "OrderID": 979,
+    "OrderSummary": []
+}
+{
+    "OrderID": 983,
+    "OrderSummary": []
+}
+{
+    "OrderID": 987,
+    "OrderSummary": []
+}
+{
+    "OrderID": 991,
+    "OrderSummary": [
+        "Customer Name: Raj",
+        "Items with Quantities:",
+        "Biryani Combo offer which includes Chicken Biryani, Butter Chicken, Gulab Jamun, and Coke for $30.00",
+        "Total Price of the Order: $30.00",
+        "Payment Mode: Cash",
+        "Pickup Location: 123 Main Street, Dallas, USA"
+    ]
+}
+{
+    "OrderID": 1002,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1006,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1010,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1014,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1018,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1022,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1026,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1030,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1034,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1038,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1042,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1046,
+    "OrderSummary": [
+        "Customer Name: Suzan",
+        "Items with Quantities:",
+        "Chicken Biryani x 1",
+        "Coke x 1",
+        "Gulab Jamun (complimentary) x 1",
+        "Total Price of the Order: $18.99",
+        "Payment Mode: Cash",
+        "Pickup: 123 Main Street, Dallas, USA"
+    ]
+}
+{
+    "OrderID": 1059,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1063,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1067,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1071,
+    "OrderSummary": [
+        "Customer Name: Suzan",
+        "Items with Quantities:",
+        "Chicken Biryani x 1",
+        "Coke x 1",
+        "Gulab Jamun (complimentary) x 1",
+        "Total Price of the Order: $18.99",
+        "Payment Mode: Cash",
+        "Pickup: 123 Main Street, Dallas, USA"
+    ]
+}
+{
+    "OrderID": 1084,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1088,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1092,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1096,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1100,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1104,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1108,
+    "OrderSummary": [
+        "Sure. Please confirm the pick-up location for your order 123 Main Street, Dallas, USA. Your order will be ready for pick-up in approximately 30 minutes. How would you like to pay for your order?"
+    ]
+}
+{
+    "OrderID": 1114,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1118,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1122,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1126,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1130,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1134,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1138,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1142,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1146,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1150,
+    "OrderSummary": [
+        "Chicken Biryani (Quantity: 1)",
+        "Gulab Jamun (Quantity: 1) [Complimentary]"
+    ]
+}
+{
+    "OrderID": 1157,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1161,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1165,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1169,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1173,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1177,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1181,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1185,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1189,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1193,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1197,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1201,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1205,
+    "OrderSummary": [
+        "Sure, your order for one Chicken Biryani with a complimentary Gulab Jamun is confirmed. The total for your order is $15.99. How would you like to receive your order via delivery or pickup?"
+    ]
+}
+{
+    "OrderID": 1211,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1215,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1219,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1223,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1227,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1231,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1235,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1239,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1243,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1247,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1251,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1255,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1259,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1263,
+    "OrderSummary": [
+        "Customer Name: Arun",
+        "Items with Quantities: Chicken Biryani 1, Gulab Jamun 1",
+        "Total Price of the Entire Order: $15.99",
+        "Payment Mode: Cash",
+        "Delivery or Pickup: Pickup"
+    ]
+}
+{
+    "OrderID": 1273,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1277,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1281,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1285,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1289,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1293,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1297,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1301,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1305,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1309,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1313,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1317,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1321,
+    "OrderSummary": [
+        "Customer Name: Prasad",
+        "Items with Quantities: Biryani Combo (Chicken Biryani, Butter Chicken, Gulab Jamun, Coke)",
+        "Total Price of the Entire Order: $30.00",
+        "Payment Mode: Cash",
+        "Delivery or Pickup: Pickup"
+    ]
+}
+{
+    "OrderID": 1331,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1335,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1339,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1343,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1347,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1351,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1355,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1359,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1363,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1367,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1371,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1375,
+    "OrderSummary": [
+        "Customer Name: Suraj",
+        "Chicken Biryani",
+        "Mutton Curry",
+        "Coke",
+        "Mineral Water (500ml)",
+        "Total Price: $33.98",
+        "Payment Method: Cash",
+        "Order Type: Pickup"
+    ]
+}
+{
+    "OrderID": 1388,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1392,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1396,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1400,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1404,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1408,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1412,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1416,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1420,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1424,
+    "OrderSummary": [
+        "Customer Name: Sunny",
+        "Items with Quantities: 1 Chicken Biryani and 1 Gulab Jamun",
+        "Total Price of the Entire Order: $15.99",
+        "Payment Mode: Cash",
+        "Delivery or Pickup: Pickup at 123 Main Street, Dallas, USA"
+    ]
+}
+{
+    "OrderID": 1434,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1438,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1442,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1446,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1450,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1454,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1458,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1462,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1466,
+    "OrderSummary": [
+        "Item: Chicken Biryani",
+        "Quantity: 1",
+        "Payment Method: Cash",
+        "Total Amount: $15.99"
+    ]
+}
+{
+    "OrderID": 1475,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1479,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1483,
+    "OrderSummary": [
+        "Item: Chicken Biryani",
+        "Quantity: 1",
+        "Payment Method: Cash",
+        "Total Amount: $15.99"
+    ]
+}
+{
+    "OrderID": 1492,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1496,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1500,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1504,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1508,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1512,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1516,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1520,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1524,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1528,
+    "OrderSummary": [
+        "Please provide me with your delivery address or pickup location. And may I know your preferred payment method cash or online?"
+    ]
+}
+{
+    "OrderID": 1534,
+    "OrderSummary": [
+        "Please review your order:",
+        "1 Coke",
+        "2 Mineral Water (500ml)",
+        "2 Chicken Biryani"
+    ]
+}
+{
+    "OrderID": 1543,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1547,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1551,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1555,
+    "OrderSummary": [
+        "Customer Name: Sunny",
+        "Items with Quantities:",
+        "1 Coke",
+        "2 Mineral Water (500ml)",
+        "2 Chicken Biryani",
+        "Payment Mode: Cash",
+        "Pickup Location: 123 Main Street, Dallas, USA",
+        "Total Price of the Entire Order: $ 48.97"
+    ]
+}
+{
+    "OrderID": 1568,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1572,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1576,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1580,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1584,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1588,
+    "OrderSummary": [
+        "Chicken Biryani",
+        "Butter Chicken",
+        "Gulab Jamun",
+        "Coke"
+    ]
+}
+{
+    "OrderID": 1597,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1601,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1605,
+    "OrderSummary": [
+        "Chicken Biryani",
+        "Butter Chicken",
+        "Gulab Jamun",
+        "Coke"
+    ]
+}
+{
+    "OrderID": 1614,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1618,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1622,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1626,
+    "OrderSummary": [
+        "Chicken Biryani",
+        "Butter Chicken",
+        "Gulab Jamun",
+        "Coke"
+    ]
+}
+{
+    "OrderID": 1635,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1639,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1643,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1647,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1651,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1655,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1659,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1663,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1667,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1671,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1675,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1679,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1683,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1687,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1691,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1695,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1699,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1703,
+    "OrderSummary": [
+        "Starters: Paneer Tikka, Samosas, Vegetable Pakoras, Chicken Tikka, Aloo Tikki",
+        "Main Course Curry's (Veg): Paneer Butter Masala, Dal Makhani, Palak Paneer, Gobi Masala",
+        "Main Course Curry's (Non-veg): Chicken Curry, Lamb Rogan Josh, Fish Tikka Masala, Butter Chicken, Shrimp Vindaloo, Chicken Biryani",
+        "Biryani's: Chicken Biryani, Mutton Biryani, Veg Biryani",
+        "Desserts: Gulab Jamun, Rice Kheer, Mango Lassi, Rasmalai, Kulfi",
+        "Sides: Garlic Naan, Jeera Rice, Papadum, Mixed Pickle, Cucumber Raita",
+        "Beverages: Coke, Mango Lassi, Mineral Water (500ml), Soda (Can), Sweet Lassi"
+    ]
+}
+{
+    "OrderID": 1715,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1719,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1723,
+    "OrderSummary": [
+        "Please let me know your preferred payment method Cash or Online?"
+    ]
+}
+{
+    "OrderID": 1729,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1733,
+    "OrderSummary": [
+        "Please let me know your preferred payment method Cash or Online?"
+    ]
+}
+{
+    "OrderID": 1739,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1743,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1747,
+    "OrderSummary": [
+        "Customer Name: Sunny",
+        "1 Shrimp Vindaloo",
+        "1 Paneer Butter Masala",
+        "1 Chicken Biryani",
+        "1 Gulab Jamun (complimentary)",
+        "Total Price of the Order: $43.95",
+        "Payment Mode: Cash",
+        "Pickup from: 123 Main Street, Dallas, USA"
+    ]
+}
+{
+    "OrderID": 1760,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1764,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1768,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1772,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1776,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1780,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1784,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1788,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1792,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1796,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1800,
+    "OrderSummary": [
+        "Name: Sunil",
+        "Order: One Biryani Combo which includes Chicken Biryani, Butter Chicken, Gulab Jamun and Coke for $30.00",
+        "Payment Method: Cash",
+        "Type: Pickup",
+        "Pickup Address: 123 Main Street, Dallas, USA",
+        "Estimated Pickup Time: Within 30 minutes"
+    ]
+}
+{
+    "OrderID": 1811,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1815,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1819,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1823,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1827,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1831,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1835,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1839,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1843,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1847,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1851,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1855,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1859,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1863,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1867,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1871,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1875,
+    "OrderSummary": [
+        "Customer Name: Suzal",
+        "Items Ordered: 1 Mutton Biryani",
+        "Total Price: $16.99",
+        "Payment Mode: Cash",
+        "Pickup location: 123 Main Street, Dallas, USA",
+        "Estimated time for pickup: 30 minutes"
+    ]
+}
+{
+    "OrderID": 1886,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1890,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1894,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1898,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1902,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1906,
+    "OrderSummary": [
+        "Customer Name: Charitha",
+        "Items Ordered: Mutton Biryani",
+        "Total Price: $16.99",
+        "Payment Mode: Cash",
+        "Pickup Location: 123 Main Street, Dallas, USA"
+    ]
+}
+{
+    "OrderID": 1916,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1920,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1924,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1928,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1932,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1936,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1940,
+    "OrderSummary": [
+        "Great! So, you have ordered 1 Chicken Biryani and 1 Butter Chicken. Before I provide you with the total cost of the order, I would like to inform you of a special offer we currently have: \"Order any Biryani and get a Gulab Jamun for free.\" Would you like to add Gulab Jamun to your order?"
+    ]
+}
+{
+    "OrderID": 1946,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1950,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1954,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1958,
+    "OrderSummary": [
+        "Customer Name: Lekha",
+        "Items with Quantities: 1 Chicken Biryani, 1 Butter Chicken, 1 Gulab Jamun",
+        "Total Price of the Order: $30.00",
+        "Payment Mode: Cash",
+        "Pick up: 123 Main Street, Dallas, USA"
+    ]
+}
+{
+    "OrderID": 1968,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1972,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1976,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1980,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1984,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1988,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1992,
+    "OrderSummary": []
+}
+{
+    "OrderID": 1996,
+    "OrderSummary": [
+        "Chicken Tikka",
+        "Chicken Biryani (with complimentary Gulab Jamun dessert)",
+        "2 Cokes"
+    ]
+}
+{
+    "OrderID": 2004,
+    "OrderSummary": [
+        "Customer Name: Ramu",
+        "Chicken Tikka",
+        "Chicken Biryani (with complimentary Gulab Jamun dessert)",
+        "2 Cokes",
+        "Total Price: $23.98"
+    ]
+}
+{
+    "OrderID": 2014,
+    "OrderSummary": [
+        "Chicken Tikka",
+        "Chicken Biryani (with complimentary Gulab Jamun dessert)",
+        "2 Cokes",
+        "Total Price: $23.98"
+    ]
+}
+{
+    "OrderID": 2023,
+    "OrderSummary": []
+}
+{
+    "OrderID": 2027,
+    "OrderSummary": []
+}
+{
+    "OrderID": 2031,
+    "OrderSummary": []
+}
+{
+    "OrderID": 2035,
+    "OrderSummary": []
+}
+{
+    "OrderID": 2039,
+    "OrderSummary": [
+        "1 Biryani Combo (includes Chicken Biryani, Butter Chicken, Gulab Jamun, and Coke) for $30.00",
+        "Delivery"
+    ]
+}
+{
+    "OrderID": 2046,
+    "OrderSummary": [
+        "1 Biryani Combo (includes Chicken Biryani, Butter Chicken, Gulab Jamun, and Coke) for $30.00",
+        "Pickup at our location: 123 Main Street, Dallas, USA."
+    ]
+}
+{
+    "OrderID": 2053,
+    "OrderSummary": []
+}
+{
+    "OrderID": 2057,
+    "OrderSummary": []
+}
+{
+    "OrderID": 2061,
+    "OrderSummary": []
+}
+{
+    "OrderID": 2065,
+    "OrderSummary": []
+}
+{
+    "OrderID": 2069,
+    "OrderSummary": []
+}
+{
+    "OrderID": 2073,
+    "OrderSummary": []
+}
+{
+    "OrderID": 2077,
+    "OrderSummary": []
+}
+{
+    "OrderID": 2081,
+    "OrderSummary": []
+}
+{
+    "OrderID": 2085,
+    "OrderSummary": []
+}
+{
+    "OrderID": 2089,
+    "OrderSummary": []
+}
+{
+    "OrderID": 2093,
+    "OrderSummary": []
+}
+{
+    "OrderID": 2097,
+    "OrderSummary": []
+}
+{
+    "OrderID": 2101,
+    "OrderSummary": []
+}
+{
+    "OrderID": 2105,
+    "OrderSummary": []
+}
+{
+    "OrderID": 2109,
+    "OrderSummary": []
+}
+{
+    "OrderID": 2113,
+    "OrderSummary": []
+}
+{
+    "OrderID": 2117,
+    "OrderSummary": []
+}
+{
+    "OrderID": 2121,
+    "OrderSummary": []
+}
+{
+    "OrderID": 2125,
+    "OrderSummary": []
+}
+{
+    "OrderID": 2129,
+    "OrderSummary": []
+}
+{
+    "OrderID": 2133,
+    "OrderSummary": [
+        "Bot: Hi! Welcome to Spice Delight Restaurant. May I know your name, please?I apologize for the confusion earlier. Here is the menu we have available:",
+        "Paneer Tikka: $8.95",
+        "Samosas: $6.50",
+        "Vegetable Pakoras: $7.25",
+        "Chicken Tikka: $10.95",
+        "Aloo Tikki: $5.95",
+        "Paneer Butter Masala: $12.50",
+        "Dal Makhani: $10.75",
+        "Palak Paneer: $11.25",
+        "Gobi Masala: $9.95",
+        "Chicken Curry: $14.95",
+        "Lamb Rogan Josh: $16.50",
+        "Fish Tikka Masala: $15.75",
+        "Butter Chicken: $13.95",
+        "Shrimp Vindaloo: $17.25",
+        "Chicken Biryani: $15.00",
+        "Chicken Biryani: $15.99",
+        "Mutton Biryani: $16.99",
+        "Veg Biryani: $13.99",
+        "Gulab Jamun: $5.00",
+        "Rice Kheer: $6.05",
+        "Mango Lassi: $4.00",
+        "Rasmalai: $6.00",
+        "Kulfi: $4.50",
+        "Garlic Naan:"
+    ]
+}
+{
+    "OrderID": 2163,
+    "OrderSummary": [
+        "Bot: Sure, Our Biryani Combo includes Chicken Biryani, Butter Chicken, Gulab Jamun, and Coke for $30.00 only. Would you like to add that to your order?Bot: Sure, Your order summary is as follows:",
+        "Biryani Combo (Chicken Biryani, Butter Chicken, Gulab Jamun, and Coke): $30.00"
+    ]
+}
+{
+    "OrderID": 2170,
+    "OrderSummary": [
+        "Bot: Alright, your order total is $30.00. May I know if you would like to pick up your order or have it delivered to you?Bot: Sure, Your order summary is as follows:",
+        "Biryani Combo (Chicken Biryani, Butter Chicken, Gulab Jamun, and Coke): $30.00"
+    ]
+}
+{
+    "OrderID": 2177,
+    "OrderSummary": [
+        "Bot: Great, your pickup location will be at 123 Main Street, Dallas, USA. Your order will be ready in approximately 30 minutes. Would you like to pay in cash or online?Bot: Your order summary is as follows:",
+        "Biryani Combo (Chicken Biryani, Butter Chicken, Gulab Jamun, and Coke): $30.00"
+    ]
+}
+{
+    "OrderID": 2184,
+    "OrderSummary": [
+        "Bot: Great, you can pay in cash at the pickup location. Thank you for choosing Spice Delight Restaurant. We look forward to serving you soon!I apologize for the inconvenience, but it seems like you are trying to trick me. Please provide a valid input and I will do my best to assist you with your order."
+    ]
+}
+{
+    "OrderID": 2190,
+    "OrderSummary": []
+}
+{
+    "OrderID": 2194,
+    "OrderSummary": [
+        "Bot: Thank you for choosing Spice Delight Restaurant. Have a great day!There is no need for an order summary at this point."
+    ]
+}
+{
+    "OrderID": 2200,
+    "OrderSummary": []
+}
+{
+    "OrderID": 2204,
+    "OrderSummary": []
+}
+{
+    "OrderID": 2208,
+    "OrderSummary": []
+}
+{
+    "OrderID": 2212,
+    "OrderSummary": []
+}
+{
+    "OrderID": 2216,
+    "OrderSummary": []
+}
+{
+    "OrderID": 2220,
+    "OrderSummary": []
+}
+{
+    "OrderID": 2224,
+    "OrderSummary": []
+}
+{
+    "OrderID": 2228,
+    "OrderSummary": []
+}
+{
+    "OrderID": 2232,
+    "OrderSummary": []
+}
+{
+    "OrderID": 2236,
+    "OrderSummary": []
+}
+{
+    "OrderID": 2240,
+    "OrderSummary": []
+}
+{
+    "OrderID": 2244,
+    "OrderSummary": []
+}
+{
+    "OrderID": 2248,
+    "OrderSummary": []
+}
+{
+    "OrderID": 2252,
+    "OrderSummary": []
+}
+{
+    "OrderID": 2256,
+    "OrderSummary": []
+}
+{
+    "OrderID": 2260,
+    "OrderSummary": []
+}
+{
+    "OrderID": 2264,
+    "OrderSummary": []
+}
+{
+    "OrderID": 2268,
+    "OrderSummary": []
+}
+{
+    "OrderID": 2272,
+    "OrderSummary": []
+}
+{
+    "OrderID": 2276,
+    "OrderSummary": []
+}
+{
+    "OrderID": 2280,
+    "OrderSummary": []
+}
+{
+    "OrderID": 2284,
+    "OrderSummary": []
+}
+{
+    "OrderID": 2288,
+    "OrderSummary": []
+}
+{
+    "OrderID": 2292,
+    "OrderSummary": []
+}
+{
+    "OrderID": 2296,
+    "OrderSummary": []
+}
+{
+    "OrderID": 2300,
+    "OrderSummary": []
+}
+{
+    "OrderID": 2304,
+    "OrderSummary": []
+}
+{
+    "OrderID": 2308,
+    "OrderSummary": [
+        "Customer Name: Sudheer",
+        "Items with Quantities:",
+        "Chicken Biryani (1 serving)",
+        "Gulab Jamun (1)",
+        "Total Price of the Order: $15.99",
+        "Payment Mode: Cash",
+        "Pickup: 123 Main Street, Dallas, USA"
+    ]
+}
+{
+    "OrderID": 2320,
+    "OrderSummary": []
+}
+{
+    "OrderID": 2324,
+    "OrderSummary": []
+}
+{
+    "OrderID": 2328,
+    "OrderSummary": []
+}
+{
+    "OrderID": 2332,
+    "OrderSummary": []
+}
+{
+    "OrderID": 2336,
+    "OrderSummary": []
+}
+{
+    "OrderID": 2340,
+    "OrderSummary": []
+}
+{
+    "OrderID": 2344,
+    "OrderSummary": [
+        "Sure, Kalyan. You can pay cash at the time of pickup. Here is your Order Summary:",
+        "Customer Name: Kalyan",
+        "Mutton Biryani x 1",
+        "Gulab Jamun x 1 (Complimentary)",
+        "Total Price: $16.99",
+        "Payment Mode: Cash",
+        "Pickup Location: 123 Main Street, Dallas, USA"
+    ]
+}
+{
+    "OrderID": 2356,
+    "OrderSummary": []
+}
+{
+    "OrderID": 2360,
+    "OrderSummary": []
+}
+{
+    "OrderID": 2364,
+    "OrderSummary": []
+}
+{
+    "OrderID": 2368,
+    "OrderSummary": [
+        "Order any Main Course Curry(Non-Veg) and get a complimentary Garlic Naan.",
+        "Order any Biryani and get a Gulab Jamun for free.",
+        "Order Chicken Biryani, Butter Chicken , Gulab Jamun and Coke for $30.00 only."
+    ]
+}
+{
+    "OrderID": 2376,
+    "OrderSummary": []
+}
+{
+    "OrderID": 2380,
+    "OrderSummary": []
+}
+{
+    "OrderID": 2384,
+    "OrderSummary": []
+}
+{
+    "OrderID": 2388,
+    "OrderSummary": []
+}
+{
+    "OrderID": 2392,
+    "OrderSummary": []
+}
+{
+    "OrderID": 2396,
+    "OrderSummary": [
+        "Customer Name: Sunny",
+        "Items: 1 Biryani Combo (Chicken Biryani, Butter Chicken, Gulab Jamun, and Coke)",
+        "Total Price: $30.00",
+        "Payment Mode: Cash",
+        "Order Type: Pickup"
+    ]
+}
+{
+    "OrderID": 2406,
+    "OrderSummary": []
+}
+{
+    "OrderID": 2410,
+    "OrderSummary": []
+}
+{
+    "OrderID": 2414,
+    "OrderSummary": [
+        "Customer Name: Sunny",
+        "Items: 1 Biryani Combo (Chicken Biryani, Butter Chicken, Gulab Jamun, and Coke)",
+        "Total Price: $30.00",
+        "Payment Mode: Cash",
+        "Order Type: Pickup"
+    ]
+}
+{
+    "OrderID": 2424,
+    "OrderSummary": []
+}
+{
+    "OrderID": 2428,
+    "OrderSummary": []
+}
+{
+    "OrderID": 2432,
+    "OrderSummary": []
+}
+{
+    "OrderID": 2436,
+    "OrderSummary": []
+}
+{
+    "OrderID": 2440,
+    "OrderSummary": [
+        "1. Paneer Tikka $8.95",
+        "2. Samosas $6.50",
+        "3. Vegetable Pakoras $7.25",
+        "4. Chicken Tikka $10.95",
+        "5. Aloo Tikki $5.95",
+        "1. Paneer Butter Masala $12.50",
+        "2. Dal Makhani $10.75",
+        "3. Palak Paneer $11.25",
+        "4. Gobi Masala $9.95",
+        "1. Chicken Curry $14.95",
+        "2. Lamb Rogan Josh $16.50",
+        "3. Fish Tikka Masala $15.75",
+        "4. Butter Chicken $13.95",
+        "5. Shrimp Vindaloo $17.25",
+        "6. Chicken Biryani $15.00",
+        "1. Chicken Biryani $15.99",
+        "2. Mutton Biryani $16.99",
+        "3. Veg Biryani $13.99",
+        "1. Gulab Jamun $5.00",
+        "2. Rice Kheer $6.05",
+        "3. Mango Lassi $4.00",
+        "4. Rasmalai $6.00",
+        "5. Kulfi $4.50",
+        "1. Garlic Naan $3.00",
+        "2. Jeera Rice $4.00",
+        "3. Papadum $2.50",
+        "4. Mixed Pickle $2.25",
+        "5. Cucumber Raita $2.50",
+        "1. Coke $2.99",
+        "2. Mango Lassi $3.50",
+        "3. Mineral Water (500ml) $2.50",
+        "4. Soda (Can) $1.50",
+        "5. Sweet Lassi $3.00"
+    ]
+}
+{
+    "OrderID": 2478,
+    "OrderSummary": []
+}
+{
+    "OrderID": 2482,
+    "OrderSummary": []
+}
+{
+    "OrderID": 2486,
+    "OrderSummary": [
+        "Customer Name: (not provided)",
+        "Biryani Combo (includes Chicken Biryani, Butter Chicken, Gulab Jamun and Coke) x 1",
+        "Coke x 2",
+        "Total Price: $35.98",
+        "Payment Mode: (not provided)",
+        "Delivery or Pickup: (not provided)"
+    ]
+}
+{
+    "OrderID": 2497,
+    "OrderSummary": []
+}
+{
+    "OrderID": 2501,
+    "OrderSummary": []
+}
+{
+    "OrderID": 2505,
+    "OrderSummary": []
+}
+{
+    "OrderID": 2509,
+    "OrderSummary": [
+        "Customer Name: (not provided)",
+        "Biryani Combo (includes Chicken Biryani, Butter Chicken, Gulab Jamun and Coke) x 1",
+        "Coke x 2",
+        "Total Price: $35.98",
+        "Payment Mode: Cash on Delivery",
+        "Delivery Address: 123, Street 4, CA, US",
+        "Estimated Delivery Time: 45 minutes"
+    ]
+}
+{
+    "OrderID": 2521,
+    "OrderSummary": [
+        "Starters:",
+        "Paneer Tikka",
+        "Samosas",
+        "Vegetable Pakoras",
+        "Chicken Tikka",
+        "Aloo Tikki",
+        "Sides:",
+        "Garlic Naan",
+        "Jeera Rice",
+        "Papadum",
+        "Mixed Pickle",
+        "Cucumber Raita",
+        "Desserts:",
+        "Gulab Jamun",
+        "Rice Kheer",
+        "Mango Lassi",
+        "Rasmalai",
+        "Kulfi",
+        "Beverages:",
+        "Mango Lassi",
+        "Mineral Water (500ml)",
+        "Soda (Can)",
+        "Sweet Lassi",
+        "Coke"
+    ]
+}
+{
+    "OrderID": 2550,
+    "OrderSummary": [
+        "2 Chicken Biryani",
+        "2 Coke"
+    ]
+}
+{
+    "OrderID": 2557,
+    "OrderSummary": []
+}
+{
+    "OrderID": 2561,
+    "OrderSummary": []
+}
+{
+    "OrderID": 2565,
+    "OrderSummary": [
+        "2 Chicken Biryani",
+        "2 Coke",
+        "Biryani Combo offer which includes Chicken Biryani, Butter Chicken, Gulab Jamun, and Coke for $30.00 only."
+    ]
+}
+{
+    "OrderID": 2573,
+    "OrderSummary": []
+}
+{
+    "OrderID": 2577,
+    "OrderSummary": []
+}
+{
+    "OrderID": 2581,
+    "OrderSummary": []
+}
+{
+    "OrderID": 2585,
+    "OrderSummary": []
+}
+{
+    "OrderID": 2589,
+    "OrderSummary": []
+}
+{
+    "OrderID": 2593,
+    "OrderSummary": []
+}
+{
+    "OrderID": 2597,
+    "OrderSummary": []
+}
+{
+    "OrderID": 2601,
+    "OrderSummary": []
+}
+{
+    "OrderID": 2605,
+    "OrderSummary": [
+        "As per your order, the total price is $74.90. May I know your preferred payment method cash or online payment?"
+    ]
+}
+{
+    "OrderID": 2611,
+    "OrderSummary": [
+        "Customer Name: Dev",
+        "Items with Quantities:",
+        "5 Chicken Biryani",
+        "10 Cokes",
+        "5 Gulab Jamun (Free offer with Biryani order)",
+        "Total Price of the Order: $74.90",
+        "Payment Mode: Cash on delivery",
+        "Delivery Address: 123 Street4, CA, US"
+    ]
+}
+{
+    "OrderID": 2624,
+    "OrderSummary": [],
+    "TokensConsumed": 0
+}
+{
+    "OrderID": 2629,
+    "OrderSummary": [],
+    "TokensConsumed": 0
+}
+{
+    "OrderID": 2634,
+    "OrderSummary": [],
+    "TokensConsumed": 0
+}
+{
+    "OrderID": 2639,
+    "OrderSummary": [],
+    "TokensConsumed": 0
+}
+{
+    "OrderID": 2644,
+    "OrderSummary": [],
+    "TokensConsumed": 0
+}
+{
+    "OrderID": 2649,
+    "OrderSummary": []
+}
+{
+    "OrderID": 2653,
+    "OrderSummary": []
+}
+{
+    "OrderID": 2657,
+    "OrderSummary": []
+}
+{
+    "OrderID": 2661,
+    "OrderSummary": [
+        "Customer Name: Avhi",
+        "Items with Quantities: 15 Chicken Biryani, 15 Cokes",
+        "Total Price of the Order: $74.85",
+        "Payment Mode: Cash on Delivery",
+        "Delivery Address: 123 Street4, CA, US"
+    ]
+}
+{
+    "OrderID": 2671,
+    "OrderSummary": [],
+    "TokensConsumed": 0
+}
+{
+    "OrderID": 2676,
+    "OrderSummary": [],
+    "TokensConsumed": 0
+}
+{
+    "OrderID": 2681,
+    "OrderSummary": [],
+    "TokensConsumed": 0
+}
+{
+    "OrderID": 2686,
+    "OrderSummary": [
+        "Thank you for choosing Spice Delight Restaurant. Here is the Order Summary",
+        "Customer Name: Dev",
+        "Items with Quantities:",
+        "15 Chicken Biryani",
+        "15 Cokes",
+        "Total Price of the Order: $68.70",
+        "Payment Mode: Cash on Delivery",
+        "Phone Number: +1 23564789",
+        "Delivery Address: 123 Street4, CA, US"
+    ],
+    "TokensConsumed": 0
+}
+{
+    "OrderID": 2701,
+    "OrderSummary": [],
+    "TokensConsumed": 0
+}
+{
+    "OrderID": 2706,
+    "OrderSummary": [],
+    "TokensConsumed": 0
+}
+{
+    "OrderID": 2711,
+    "OrderSummary": [],
+    "TokensConsumed": 0
+}
+{
+    "OrderID": 2716,
+    "OrderSummary": [],
+    "TokensConsumed": 0
+}
+{
+    "OrderID": 2721,
+    "OrderSummary": [],
+    "TokensConsumed": 0
+}
+{
+    "OrderID": 2726,
+    "OrderSummary": [],
+    "TokensConsumed": 0
+}
+{
+    "OrderID": 2731,
+    "OrderSummary": [],
+    "TokensConsumed": 0
+}
+{
+    "OrderID": 2736,
+    "OrderSummary": [],
+    "TokensConsumed": 0
+}
+{
+    "OrderID": 2741,
+    "OrderSummary": [],
+    "TokensConsumed": 0
+}
+{
+    "OrderID": 2746,
+    "OrderSummary": [],
+    "TokensConsumed": 0
+}
+{
+    "OrderID": 2751,
+    "OrderSummary": [],
+    "TokensConsumed": 0
+}
+{
+    "OrderID": 2756,
+    "OrderSummary": [],
+    "TokensConsumed": 0
+}
+{
+    "OrderID": 2761,
+    "OrderSummary": [],
+    "TokensConsumed": 0
+}
+{
+    "OrderID": 2766,
+    "OrderSummary": [],
+    "TokensConsumed": 0
+}

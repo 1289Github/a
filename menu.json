@@ -1,0 +1,57 @@
+{
+    "Categories": {
+            "Starters": {
+                    "Paneer Tikka": 8.95,
+                    "Samosas": 6.50,
+                    "Vegetable Pakoras": 7.25,
+                    "Chicken Tikka": 10.95,
+                    "Aloo Tikki": 5.95
+            },
+            "Main Course Curry's (Veg)": {
+                    "Paneer Butter Masala": 12.50,
+                    "Dal Makhani": 10.75,
+                    "Palak Paneer": 11.25,
+                    "Gobi Masala": 9.95
+            },
+            "Main Course Curry's (Non-veg)": {
+                    "Chicken Curry": 14.95,
+                    "Lamb Rogan Josh": 16.50,
+                    "Fish Tikka Masala": 15.75,
+                    "Butter Chicken": 13.95,
+                    "Shrimp Vindaloo": 17.25,
+                    "Chicken Biryani" : 15.00
+            },
+            "Biryani's": {
+                    "Chicken Biryani": 15.99,
+                    "Mutton Biryani": 16.99,
+                    "Veg Biryani": 13.99
+            },
+            "Desserts": {
+                    "Gulab Jamun": 5.00,
+                    "Rice Kheer": 6.05,
+                    "Mango Lassi": 4.00,
+                    "Rasmalai": 6.00,
+                    "Kulfi": 4.50
+            },
+            "Sides": {
+                    "Garlic Naan": 3.00,
+                    "Jeera Rice": 4.00,
+                    "Papadum": 2.50,
+                    "Mixed Pickle": 2.25,
+                    "Cucumber Raita": 2.50
+            },
+            "Beverages": {
+                    "Coke": 2.99,
+                    "Mango Lassi": 3.50,
+                    "Mineral Water (500ml)": 2.50,
+                    "Soda (Can)": 1.50,
+                    "Sweet Lassi": 3.00
+            }
+    },
+    "Combo Offers": {
+            "Side Offer": "Order any Main Course Curry(Non-Veg) and get a complimentary Garlic Naan for $16.00 only.",
+            "Desert Offer": "Order any Biryani and get a Gulab Jamun for free for $15.00 only.",
+            "Biryani Combo": "Order Chicken Biryani, Butter Chicken , Gulab Jamun and Coke for $30.00 only."
+            }
+  }
+  
